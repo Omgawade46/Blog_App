@@ -3,28 +3,34 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description
+
 Our Blog Application is a robust, user-friendly platform for creating, managing, and viewing blog posts. Built with modern technologies like React.js, Material-UI (MUI) for styling, Redux for state management, this application offers an intuitive and engaging user experience. Additionally, it includes a theme switcher to toggle between light and dark modes, enhancing accessibility and user preference customization.
 
 ## Features
 
-1. Post Management
+####  Post Management
+
 Create Post: Users can create new blog posts using a rich text editor. The editor supports various text formatting options, making it easy to create visually appealing content.
 Edit Post: Users can edit their existing posts, allowing them to update and improve content over time.
 Delete Post: Users can delete their posts if they no longer wish to display them.
 View Posts: All users can view a list of posts and read individual posts. The list view provides a quick overview, while the detailed view offers a full reading experience.
-2. Theme Switching
+
+####  Theme Switching
+
 Light and Dark Modes: Users can toggle between light and dark modes using a theme switcher. This feature enhances accessibility and user comfort, especially in different lighting conditions.
-Technical Stack
+
+#### Technical Stack
+
 Frontend
 React.js: A JavaScript library for building user interfaces, providing a component-based architecture and efficient rendering.
 Material-UI (MUI): A popular React UI framework that offers a comprehensive set of customizable components and styles, ensuring a modern and responsive design.
 State Management
 Redux: A predictable state container for JavaScript apps, allowing for centralized state management and easy debugging.
-Rich Text Editor
+
 
 ## Deployment URL
-https://github.com/Omgawade46/Blog_App/tree/main/Blogging-master/src
 This is project url
+https://github.com/Omgawade46/Blog_App/tree/main/Blogging-master/src
 
 ## Ready to setup
 
